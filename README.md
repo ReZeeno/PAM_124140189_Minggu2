@@ -43,7 +43,7 @@ Program menyediakan beberapa kategori berita game:
 ## Cara Menjalankan
 
 1. Clone repository ini
-2. Buka dengan IntelliJ IDEA
+2. Buka dengan Android Studio / IntelliJ IDEA
 3. Tunggu Gradle sync selesai
 4. Jalankan `Main.kt` (klik tombol Run di sebelah `fun main()`)
 
